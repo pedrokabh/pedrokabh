@@ -1,7 +1,7 @@
 
 
 # Sobre mim
-Olá! Meu nome é [seu nome], e sou um profissional com experiência em áreas como DevOps, Marketing Digital e Infraestrutura Web. Ao longo da minha carreira, trabalhei em empresas como IT-ONE e RealTec Soluções para Mineração, onde desenvolvi habilidades valiosas e contribuí para projetos significativos.
+Olá! Meu nome é Pedro Câmara, e sou um profissional com experiência em áreas como DevOps, Marketing Digital e Infraestrutura Web. Ao longo da minha carreira, trabalhei em empresas como IT-ONE e RealTec Soluções para Mineração, onde desenvolvi habilidades valiosas e contribuí para projetos significativos.
 
 ## Experiência Profissional
 ### IT-ONE (Estágio em DevOps)
