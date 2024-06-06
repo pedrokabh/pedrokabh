@@ -5,7 +5,7 @@ Olá! Meu nome é Pedro Câmara, e sou um profissional com experiência em área
 
 ## Experiência Profissional
 ### IT-ONE (Estágio em DevOps)
-Período: Setembro de 2022 - Atualmente (1 ano e 6 meses)
+Período: Setembro de 2022 - Abril 2024 (1 ano e 8 meses)
 Localização: Belo Horizonte, Minas Gerais, Brasil
 Descrição:
 Como estagiário em DevOps na IT-ONE, participo ativamente da criação/elaboração de automações de processos para o time de Services da empresa, tanto para clientes internos quanto externos.
